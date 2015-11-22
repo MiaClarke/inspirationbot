@@ -1,0 +1,2 @@
+# inspirationbot
+The inspiration slackbot
